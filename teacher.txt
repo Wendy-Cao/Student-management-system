@@ -1,0 +1,5 @@
+-1217190480	5	5	5	chm
+-1217190480	4	4	4	english
+-1217190480	3	3	3	math
+1	2	2	2	chinese
+0	1	1	123	supervisor
